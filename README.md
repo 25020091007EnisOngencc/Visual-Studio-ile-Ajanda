@@ -1,28 +1,45 @@
-#📅 Ajanda - Kişisel Planlama Uygulaması
-C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş, görsel odaklı ve kullanıcı dostu bir kişisel yönetim asistanıdır. Günlük rutinlerinizi düzenlemek, alışkanlıklarınızı takip etmek ve önemli notlarınızı saklamak için tasarlanmıştır.
-
-##🚀 Öne Çıkan Özellikler
-Uygulama, bir kullanıcının gününü verimli geçirmesi için gerekli temel araçları tek bir ekranda sunar:
-
-Günlük Plan (Toplantılar/Dersler): 08:00 - 18:00 arası saatlik program çizelgesi.
-Yapılacaklar (To-Do List): Günlük görevlerin takibi için interaktif liste.
-Alışkanlık Takibi (Habit Tracker): Su içme, spor ve kitap okuma gibi rutinler için haftalık işaretleme tablosu.
-Notlar Bölümü: Önemli hatırlatıcılar için ayrılmış, şık tasarımlı alan.
-Günün Sözü: Motivasyon sağlayan dinamik veya statik özlü sözler (Örn: René Descartes - "Düşünüyorum öyleyse varım").
-
-##🛠️ Teknik Detaylar ve Geliştirme Ortamı
-Bu proje, yüksek performanslı bir sistem üzerinde optimize edilerek geliştirilmiştir:
-
-Geliştirme Dili: C#
-Framework: .NET / WinForms (Visual Studio 2022)
-Geliştirilen Donanım: Game Garaj Slayer X7T
+📅 Ajanda - Kişisel Planlama Uygulaması
+Ajanda, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş, görsel odaklı ve kullanıcı dostu bir kişisel planlama uygulamasıdır. Günlük programınızı düzenlemek, alışkanlıklarınızı takip etmek ve önemli notlarınızı tek bir yerde saklamak amacıyla tasarlanmıştır.
+Bu uygulama sayesinde günlük planlarınızı daha verimli yönetebilir ve kişisel üretkenliğinizi artırabilirsiniz.
+🚀 Öne Çıkan Özellikler
+Uygulama, kullanıcıların günlerini daha planlı geçirebilmeleri için temel araçları tek bir arayüzde sunar:
+🕒 Günlük Plan (Toplantılar / Dersler)
+08:00 – 18:00 saatleri arasında planlama yapabileceğiniz saatlik program çizelgesi.
+✅ Yapılacaklar Listesi (To-Do List)
+Günlük görevlerinizi ekleyip takip edebileceğiniz interaktif görev listesi.
+📊 Alışkanlık Takibi (Habit Tracker)
+Su içme, spor yapma veya kitap okuma gibi alışkanlıklarınızı takip edebileceğiniz haftalık işaretleme tablosu.
+📝 Notlar Bölümü
+Önemli hatırlatıcılarınızı veya kısa notlarınızı kaydedebileceğiniz düzenli bir not alanı.
+💡 Günün Sözü
+Kullanıcıya motivasyon sağlayan özlü sözler.
+Örnek:
+René Descartes — “Düşünüyorum, öyleyse varım.”
+🛠️ Teknik Detaylar ve Geliştirme Ortamı
+Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
+Programlama Dili: C#
+Framework: .NET / Windows Forms
+Geliştirme Ortamı: Visual Studio 2022
+💻 Geliştirildiği Sistem
+Bilgisayar: Game Garaj Slayer X7T
 Ekran Kartı: NVIDIA GeForce RTX 5060
-Sistem Amacı: Yüksek performanslı UI/UX render ve hızlı derleme süreçleri.
+Amaç: Hızlı derleme süreçleri ve akıcı arayüz performansı
+📸 Uygulama Arayüzü
+(Uygulamanın ekran görüntülerini buraya ekleyebilirsiniz)
+Örnek:
+Kodu kopyala
 
-##💻 Kurulum ve Çalıştırma
-Bu depoyu bilgisayarınıza indirin:
-
+![Ajanda Arayüzü](images/arayuz.png)
+💻 Kurulum ve Çalıştırma
+Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+1️⃣ Depoyu klonlayın
 Bash
+Kodu kopyala
 git clone https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git
-Ajanda.sln dosyasını Visual Studio ile açın.
-F5 tuşuna basarak projeyi derleyin ve çalıştırın.
+2️⃣ Projeyi açın
+Visual Studio ile Ajanda.sln dosyasını açın.
+3️⃣ Projeyi çalıştırın
+Visual Studio içinde:
+Kodu kopyala
+
+F5 tuşuna basarak projeyi derleyip çalıştırabilirsiniz.

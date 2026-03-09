@@ -22,6 +22,6 @@ Bu proje, yüksek performanslı bir sistem üzerinde optimize edilerek geliştir
 ## 💻 Kurulum ve Çalıştırma
 Bu depoyu bilgisayarınıza indirin:
 Bash
-git clone https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git
-Ajanda.sln dosyasını Visual Studio ile açın.
-F5 tuşuna basarak projeyi derleyin ve çalıştırın.
+* git clone https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git
+* Ajanda.sln dosyasını Visual Studio ile açın.
+* F5 tuşuna basarak projeyi derleyin ve çalıştırın.

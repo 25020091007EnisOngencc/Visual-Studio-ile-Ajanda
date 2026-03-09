@@ -1,40 +1,42 @@
-#📅 **Ajanda - Kişisel Planlama Uygulaması**
-Ajanda, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş, görsel odaklı ve kullanıcı dostu bir kişisel planlama uygulamasıdır. Günlük programınızı düzenlemek, alışkanlıklarınızı takip etmek ve önemli notlarınızı tek bir yerde saklamak amacıyla tasarlanmıştır.
-Bu uygulama sayesinde günlük planlarınızı daha verimli yönetebilir ve kişisel üretkenliğinizi artırabilirsiniz.
-##🚀**Öne Çıkan Özellikler**
-Uygulama, kullanıcıların günlerini daha planlı geçirebilmeleri için temel araçları tek bir arayüzde sunar:
-🕒 Günlük Plan (Toplantılar / Dersler)
-08:00 – 18:00 saatleri arasında planlama yapabileceğiniz saatlik program çizelgesi.
-✅ Yapılacaklar Listesi (To-Do List)
-Günlük görevlerinizi ekleyip takip edebileceğiniz interaktif görev listesi.
-📊 Alışkanlık Takibi (Habit Tracker)
-Su içme, spor yapma veya kitap okuma gibi alışkanlıklarınızı takip edebileceğiniz haftalık işaretleme tablosu.
-📝 Notlar Bölümü
-Önemli hatırlatıcılarınızı veya kısa notlarınızı kaydedebileceğiniz düzenli bir not alanı.
-💡**Günün Sözü**
-Kullanıcıya motivasyon sağlayan özlü sözler.
-Örnek:
-René Descartes — “Düşünüyorum, öyleyse varım.”
-🛠️ Teknik Detaylar ve Geliştirme Ortamı
-Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
-#**Programlama Dili: C#**
-Framework: .NET / Windows Forms
-Geliştirme Ortamı: Visual Studio 2022
-💻 Geliştirildiği Sistem
-Bilgisayar: Game Garaj Slayer X7T
-Ekran Kartı: NVIDIA GeForce RTX 5060
-Amaç: Hızlı derleme süreçleri ve akıcı arayüz performansı
+# 📅 AJANDA-S
 
-#💻 **Kurulum ve Çalıştırma**
-Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-1️⃣ Depoyu klonlayın
-Bash
-Kodu kopyala
-git clone https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git
-2️⃣ Projeyi açın
-Visual Studio ile Ajanda.sln dosyasını açın.
-3️⃣ Projeyi çalıştırın
-Visual Studio içinde:
-Kodu kopyala
+### Retro Notebook Concept
 
-F5 tuşuna basarak projeyi derleyip çalıştırabilirsiniz.
+C# ve WinForms kullanılarak geliştirilmiş, **nostaljik pul ve eski kağıt dokularıyla zenginleştirilmiş** estetik bir dijital ajanda uygulamasıdır. 
+
+Bu proje, standart Windows Form arayüzlerinin ötesine geçerek kullanıcıya **kişiselleştirilmiş bir "dijital defter" deneyimi** sunmayı amaçlar.
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+* 🎨 **Eşsiz Tasarım**
+  Klasik ajanda görünümü veren yüksek çözünürlüklü dokular ve vintage objeler.
+* 🗓️ **Haftalık Görünüm**
+  Her güne özel ayrılmış interaktif not alanları ve planlama çizelgesi.
+* ✍️ **Not Paneli**
+  İlham verici alıntılar ekleyebileceğiniz dinamik ve estetik not alanı.
+* ⚡ **Hafif ve Hızlı**
+  WinForms altyapısı sayesinde sistem kaynaklarını yormayan akıcı bir deneyim.
+
+---
+
+## 🛠️ Teknik Detaylar & Stack
+
+* **Programlama Dili:** C#
+* **Framework:** .NET / Windows Forms
+* **Geliştirme Ortamı:** Visual Studio 2022
+* **Geliştirildiği Sistem:** Game Garaj Slayer X7T
+* **Ekran Kartı:** NVIDIA GeForce RTX 5060
+
+---
+
+## 📸 Uygulama Arayüzü
+
+![Ajanda Arayüzü](buraya_resim_linkini_koy.png)
+
+## 💻 Kurulum ve Çalıştırma
+
+1. **Depoyu klonlayın:**
+   ```bash
+   git clone [https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git](https://github.com/25020091007EnisOngencc/Visual-Studio-Ajanda.git)
